@@ -4,4 +4,4 @@ This is a simple readme file
 
 # Heading 2
 
-This is bound to cause something bad
+Something is going on
